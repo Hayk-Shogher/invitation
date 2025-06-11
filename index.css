@@ -46,7 +46,7 @@ header {
   font-size: clamp(2rem, 12vw, 4rem);
   text-shadow: #323232 1px 0 10px;
    font-family: "Armenia2";
-   background-color: #0000007d;
+   background-color: #00000079;
 }
 .date {
   font-size: clamp(1rem, 15vw, 5rem);
