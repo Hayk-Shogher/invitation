@@ -40,13 +40,13 @@ header {
   flex-direction: column;
   justify-content: space-between;
   padding: 20px 0;
-  /* color: #323232; */
   color: #e5e7eb ;
 }
 .names {
   font-size: clamp(2rem, 12vw, 4rem);
   text-shadow: #323232 1px 0 10px;
    font-family: "Armenia2";
+   background-color: #0000007d;
 }
 .date {
   font-size: clamp(1rem, 15vw, 5rem);
